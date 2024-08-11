@@ -58,6 +58,10 @@ Below is a diagram illustrating the sequence of steps and interactions between t
    - Call the main function with the swap amount.
    - Function: `main(swapAmount)`
 
+## Final terminal output
+
+![alt text](<final terminal output.png>)
+
 ## Conclusion
 
 This script demonstrates the integration of Uniswap and Aave protocols to perform a token swap and supply the swapped tokens to earn interest. By following the steps outlined in this README, you can understand the workflow and the interactions between the different DeFi protocols.Feel free to modify the script to suit your needs and explore other DeFi protocols to enhance the functionality further.
