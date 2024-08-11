@@ -72,8 +72,13 @@ This script demonstrates the integration of Uniswap and Aave protocols to perfor
 
 3. Create a .env file and add your environments variables:
 
-   `RPC_URL=your_rpc_url=`
-   `PRIVATE_KEY=your_private_key=`
+   ```
+   RPC_URL=your_rpc_url=
+   ```
+
+   ```
+   PRIVATE_KEY=your_private_key=
+   ```
 
 4. Run the script:
    `node index.js`
